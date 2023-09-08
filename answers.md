@@ -38,4 +38,18 @@ Your branch is up to date with 'origin/main'.
 Changes to be committed:
   (use "git restore --staged <file>..." to unstage)
         new file:   answers.md
-10. 
+10. 10. The changes made online did not relfect the local copy, there was no update in the local copy, where the online one was updated with a commit message.
+11. It gives me an error meaasge
+12. remote: Enumerating objects: 5, done.
+remote: Counting objects: 100% (5/5), done.
+remote: Compressing objects: 100% (2/2), done.
+remote: Total 3 (delta 0), reused 0 (delta 0), pack-reused 0
+Unpacking objects: 100% (3/3), 702 bytes | 234.00 KiB/s, done.
+From https://github.com/054katelyn/git-lab2023
+   48a012a..c1b8cd9  main       -> origin/main
+Updating 48a012a..c1b8cd9
+Fast-forward
+ README.md | 3 ++-
+ 1 file changed, 2 insertions(+), 1 deletion(-)
+13. .  ..  Labs  git-lab-02
+ 
